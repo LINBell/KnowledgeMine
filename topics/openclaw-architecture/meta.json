@@ -1,0 +1,143 @@
+{
+  "topic": "OpenClaw架构",
+  "created_at": "2026-04-25",
+  "search_keywords": ["OpenClaw", "OpenClaw架构", "OpenClaw 原理", "OpenClaw memory架构 Skill"],
+  "posts": [
+    {
+      "note_id": "69821980000000000e03c95f",
+      "title": "一口气拆穿Skill/MCP/Agent/OpenClaw原理",
+      "author": "飞天闪客",
+      "likes": 58990,
+      "collects": 73494,
+      "comments_count": 1060,
+      "analyzed": true
+    },
+    {
+      "note_id": "69ac3370000000001b01f78d",
+      "title": "一篇讲明白 OpenClaw 原理和Agent架构",
+      "author": "万有引力AI",
+      "likes": 552,
+      "collects": 697,
+      "comments_count": 12,
+      "analyzed": true
+    },
+    {
+      "note_id": "69a667cb000000002303aa08",
+      "title": "一文硬核拆解OpenClaw底层原理！",
+      "author": "Smartpig",
+      "likes": 533,
+      "collects": 746,
+      "comments_count": 37,
+      "analyzed": true
+    },
+    {
+      "note_id": "69c14a530000000021038967",
+      "title": "怎么理解openclaw架构，该做哪些改造",
+      "author": "朱阿漫",
+      "likes": 640,
+      "collects": 976,
+      "comments_count": 16,
+      "analyzed": true
+    },
+    {
+      "note_id": "69c8cdf00000000021039fdc",
+      "title": "从OpenClaw多Agent架构拆解面试问题",
+      "author": "不转到大模型不改名",
+      "likes": 730,
+      "collects": 901,
+      "comments_count": 29,
+      "analyzed": true
+    },
+    {
+      "note_id": "69b8e1f6000000001e00f182",
+      "title": "终于搞明白了openclaw的memory架构",
+      "author": "momo",
+      "likes": 371,
+      "collects": 605,
+      "comments_count": 7,
+      "analyzed": true
+    },
+    {
+      "note_id": "69aa7df4000000002303b00f",
+      "title": "给技术小白的OpenClaw核心架构及运转原理",
+      "author": "鹿桃桃的AI百宝箱",
+      "likes": 3196,
+      "collects": 5326,
+      "comments_count": 70,
+      "analyzed": false
+    },
+    {
+      "note_id": "69b292500000000028009849",
+      "title": "面试官：OpenClaw这么火，知道它的原理吗？",
+      "author": "面试鸭",
+      "likes": 1672,
+      "collects": 2494,
+      "comments_count": 29,
+      "analyzed": false
+    },
+    {
+      "note_id": "69bced6d0000000023010aec",
+      "title": "OpenClaw必装15个Skills🔥",
+      "author": "老莫AIGC",
+      "likes": 1582,
+      "collects": 2239,
+      "comments_count": 41,
+      "analyzed": false
+    },
+    {
+      "note_id": "69a567140000000022020aad",
+      "title": "每日产品3分钟｜什么是OpenClaw🦞？",
+      "author": "网易产品茶话会",
+      "likes": 1165,
+      "collects": 869,
+      "comments_count": 35,
+      "analyzed": false
+    },
+    {
+      "note_id": "69b503b1000000002102ca8e",
+      "title": "OpenClaw进阶攻略：技能矩阵到手搓工作流",
+      "author": "Lucas｜AI X Fintech",
+      "likes": 912,
+      "collects": 1779,
+      "comments_count": 53,
+      "analyzed": false
+    },
+    {
+      "note_id": "69b82b05000000001f005537",
+      "title": "不了解 memory，你就不可能养好 Agent",
+      "author": "阿东玩AI",
+      "likes": 849,
+      "collects": 1608,
+      "comments_count": 32,
+      "analyzed": false
+    },
+    {
+      "note_id": "69b7e28f00000000220032ea",
+      "title": "openclaw的memory源码级解析",
+      "author": "爱读书的李博士",
+      "likes": 215,
+      "collects": 386,
+      "comments_count": 10,
+      "analyzed": false
+    },
+    {
+      "note_id": "698746e700000000150231b4",
+      "title": "OpenClaw 记忆架构全解析",
+      "author": "荆言Winter",
+      "likes": 122,
+      "collects": 250,
+      "comments_count": 13,
+      "analyzed": false
+    },
+    {
+      "note_id": "69e0fd96000000002202aa48",
+      "title": "OpenClaw 和 Hermes架构拆解",
+      "author": "青椰是我",
+      "likes": 21,
+      "collects": 32,
+      "comments_count": 1,
+      "analyzed": false
+    }
+  ],
+  "status": "completed"
+}
