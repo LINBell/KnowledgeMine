@@ -1,0 +1,119 @@
+{
+  "topic": "RAG",
+  "slug": "rag",
+  "created_at": "2026-04-25",
+  "updated_at": "2026-04-25",
+  "search_keywords": ["RAG", "RAG检索增强生成", "RAG架构"],
+  "posts": [
+    {
+      "note_id": "69cb91cb0000000020039e78",
+      "title": "rag已死",
+      "author": "李洛克",
+      "likes": 3705,
+      "collects": 5197,
+      "comments_count": 404,
+      "analyzed": true
+    },
+    {
+      "note_id": "695cf2e3000000000a03d5b6",
+      "title": "为什么公司RAG接了大模型，但搜索还是不准",
+      "author": "林萧Alex",
+      "likes": 1934,
+      "collects": 2730,
+      "comments_count": 142,
+      "analyzed": true
+    },
+    {
+      "note_id": "6852a30a000000000d0189c5",
+      "title": "每天拆解一个AI知识点：RAG",
+      "author": "小葱AI",
+      "likes": 2614,
+      "collects": 2223,
+      "comments_count": 65,
+      "analyzed": true
+    },
+    {
+      "note_id": "68ef64260000000004029879",
+      "title": "RAG 已死？",
+      "author": "木锋",
+      "likes": 1265,
+      "collects": 1365,
+      "comments_count": 206,
+      "analyzed": true
+    },
+    {
+      "note_id": "69a9c20200000000150332cc",
+      "title": "为什么 Claude Code 放弃了 RAG？Boris访谈",
+      "author": "浮想收容所",
+      "likes": 885,
+      "collects": 1031,
+      "comments_count": 47,
+      "analyzed": true
+    },
+    {
+      "note_id": "69d05590000000001d01cea8",
+      "title": "RAG要被淘汰了？Agent转向文件系统",
+      "author": "字节洞察",
+      "likes": 734,
+      "collects": 962,
+      "comments_count": 61,
+      "analyzed": true
+    },
+    {
+      "note_id": "69ccfca10000000022027e5c",
+      "title": "研二 CV 转 Agent，搓了一个 RAG 项目开源",
+      "author": "周慕云",
+      "likes": 731,
+      "collects": 901,
+      "comments_count": 82,
+      "analyzed": true
+    },
+    {
+      "note_id": "683bf309000000000f031d9a",
+      "title": "RAG 增强检索生成｜AI 产品经理必知",
+      "author": "产品经理胡笛笛🥝",
+      "likes": 717,
+      "collects": 898,
+      "comments_count": 10,
+      "analyzed": true
+    },
+    {
+      "note_id": "6868f9ed0000000023007183",
+      "title": "血泪教训❗️别在简历里继续写熟悉RAG了",
+      "author": "AI大模型课堂",
+      "likes": 246,
+      "collects": 361,
+      "comments_count": 12,
+      "analyzed": true
+    },
+    {
+      "note_id": "692e4d22000000001d039c77",
+      "title": "今天学点 AI：RAG 的完整工作流程",
+      "author": "阿健 Cleaner",
+      "likes": 206,
+      "collects": 317,
+      "comments_count": 5,
+      "analyzed": true
+    },
+    {
+      "note_id": "69d76c05000000001d018c08",
+      "title": "一篇汇总了RAG11个核心概念！",
+      "author": "jack",
+      "likes": 90,
+      "collects": 160,
+      "comments_count": 27,
+      "analyzed": true
+    },
+    {
+      "note_id": "69a577a30000000026030e9a",
+      "title": "自己搭建知识库？你不得不知道的9种RAG架构",
+      "author": "大模型零基础入门",
+      "likes": 56,
+      "collects": 73,
+      "comments_count": 2,
+      "analyzed": true
+    }
+  ],
+  "web_sources": [],
+  "status": "completed"
+}
